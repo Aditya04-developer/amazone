@@ -1,0 +1,2 @@
+# amazone
+my amazone project
